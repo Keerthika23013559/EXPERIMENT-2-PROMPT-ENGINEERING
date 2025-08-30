@@ -32,51 +32,40 @@ Step 9: Analyze which type of prompting yields better quality responses.
 Step 10: Conclude the experiment.
 ## Output
 Scenario 1: General Knowledge
-Broad Prompt : “Tell me about Artificial Intelligence.”
+Broad Prompt : “Tell me about Machine laerning.”
 
 ## output:
-<img width="802" height="397" alt="image" src="https://github.com/user-attachments/assets/59af2ddf-e4f7-420f-aff0-6a9501d37dda" />
+<img width="1573" height="758" alt="image" src="https://github.com/user-attachments/assets/16256dd6-537b-4bed-b117-7c509be330d8" />
 
-Refined Prompt : “Explain Artificial Intelligence in simple terms with two real-world applications in healthcare and education.”
+
+Refined Prompt : “Explain machine learning in simple terms with two real-world applications in healthcare and education.”
 
 ## Output: 
-<img width="1918" height="964" alt="483520181-e29e89ae-51c9-4030-b30c-9016cca1f38f" src="https://github.com/user-attachments/assets/f0ab8434-cfd6-48f9-b52a-cb50e4dfa166" />
+<img width="1589" height="757" alt="image" src="https://github.com/user-attachments/assets/58065a7d-7dca-4bf2-92eb-9e4c8f3064f4" />
 
 Scenario 2: Creative Writing
-Broad Prompt : “Write a story.”
+Broad Prompt : “Write a story about AI life.”
 
 ## Output:
-<img width="802" height="465" alt="image" src="https://github.com/user-attachments/assets/e9985978-e159-44c6-bd14-133ccdd497f3" />
+<img width="1525" height="718" alt="image" src="https://github.com/user-attachments/assets/c2b8697b-c96e-4fd5-b1c3-cfb56ececc91" />
+<img width="1591" height="750" alt="image" src="https://github.com/user-attachments/assets/6fc2bef1-87bd-401e-b7a5-a0267c0dfd55" />
 
+Refined Prompt : “Write a 100-word story about happiness.”
 
-Refined Prompt : “Write a 100-word story about a robot that learns emotions for the first time, focusing on happiness.”
-
-Output:
-<img width="804" height="418" alt="image" src="https://github.com/user-attachments/assets/c8bda783-0a72-422e-b7fe-ba9e558920d9" />
+## Output:
+<img width="1531" height="636" alt="image" src="https://github.com/user-attachments/assets/46c48814-e3b9-43f2-b264-16977bf58618" />
 
 Scenario 3: Problem Solving (Math)
-Broad Prompt : “Solve this: 2x + 5 = 15.”
+Broad Prompt : “Solve this: 2x 3y 5 = 54.”
 
-Output:
-<img width="805" height="816" alt="image" src="https://github.com/user-attachments/assets/6ef52c32-5f7a-4d6b-8b0c-8e4786de2fda" />
-Refined Prompt : “Solve for x in the linear equation 2x + 5 = 15 and explain each step.”
-
-Output:
-<img width="804" height="807" alt="image" src="https://github.com/user-attachments/assets/35d57ea3-aaa5-4723-bcb2-e85ca1255026" />
-
+## Output:
+<img width="1525" height="684" alt="image" src="https://github.com/user-attachments/assets/b41d999a-67c4-41eb-b911-251f15942a1b" />
 
 Scenario 4: Instructional / Practical Task
-Broad Prompt : “Write a formal email.”
+Broad Prompt : “Write a letter.”
+## output 
+<img width="1506" height="672" alt="image" src="https://github.com/user-attachments/assets/a43bcf48-9ac0-40e6-b535-8f16250da1c4" />
 
-Output:
-<img width="822" height="365" alt="image" src="https://github.com/user-attachments/assets/0781d317-a3a3-48a7-a0f5-e8aaa2092b21" />
-
-Refined Prompt : “Write a formal email to your professor requesting an extension for submitting an assignment. Keep it polite and professional.” 
-<img width="797" height="357" alt="image" src="https://github.com/user-attachments/assets/abdf6e3a-76a3-4778-b02f-efe763dd26cc" />
-
-
-## Comparitive Analysis Table
-<img width="1147" height="676" alt="image" src="https://github.com/user-attachments/assets/bcdace2b-c721-4db7-bab8-f4a43a43f9f3" />
 
 ## Result
 Broad prompts give general and creative outputs but lack focus.Refined prompts provide accurate, structured, and context-specific results.Overall, refined prompting improves quality, accuracy, and clarity, while broad prompting is better for brainstorming.
