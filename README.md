@@ -8,16 +8,27 @@ Test and compare how different pattern models respond to various prompts (broad 
 
 ## Algorithm:
 Step 1: Start the experiment.
+
 Step 2: Select a test scenario (e.g., General Knowledge, Creative Writing, Problem Solving, or Data Analysis).
+
 Step 3: Frame two types of prompts for the chosen scenario:
+
 Broad / Unstructured Prompt.
+
 Refined / Structured Prompt.
+
 Step 4: Input the Broad Prompt into the AI model and record the generated response.
+
 Step 5: Input the Refined Prompt into the AI model and record the generated response.
+
 Step 6: Compare the two outputs on the basis of:
+
 Step 7: Repeat Steps 2–6 for multiple scenarios.
+
 Step 8: Document the findings in a tabular format (Broad vs Refined output).
+
 Step 9: Analyze which type of prompting yields better quality responses.
+
 Step 10: Conclude the experiment.
 ## Output
 Scenario 1: General Knowledge
